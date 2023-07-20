@@ -1,5 +1,5 @@
 {% set name = "daggerpy" %}
-{% set version = "0.0.3" %}
+{% set version = "0.0.4" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/daggerpy-{{ version }}.tar.gz
-  sha256: c264c418a784aad4419a7510eeae549626604b86ed3623f983e7cc8973da2421
+  sha256: c0bb7a5db9ae677d1e6b7d52d94bc8ad5a7ed2b95c43999f5536a551492bdce4
 
 build:
   skip: true  # [py2k]
