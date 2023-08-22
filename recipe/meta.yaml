@@ -14,7 +14,7 @@ build:
   entry_points:
     - dagger=dagger.cli:main
   script: {{ PYTHON }} -m pip install . -vv
-  number: 2
+  number: 0
 
 requirements:
   build:
