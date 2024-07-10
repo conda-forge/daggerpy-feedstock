@@ -281,5 +281,5 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
-* [@bgailleton](https://github.com/bgailleton/)
+* [@bgailleton - Université de Rennes](https://github.com/bgailleton/)
 
