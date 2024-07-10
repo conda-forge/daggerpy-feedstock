@@ -23,11 +23,17 @@ requirements:
   host:
     - python
     - pybind11
+    - numpy <=1.50
+    - xtensor
+    - xtensor-python
     - pip
   run:
     - python
     - click >=7.0
     - pybind11
+    - numpy <=1.50
+    - xtensor
+    - xtensor-python
 
 test:
   imports:
