@@ -24,7 +24,7 @@ requirements:
   host:
     - python
     - pybind11
-    - numpy <=1.50
+    - numpy >= 2
     - xtensor
     - xtensor-python
     - pip
@@ -32,7 +32,7 @@ requirements:
     - python
     - click >=7.0
     - pybind11
-    - numpy <=1.50
+    - numpy >= 2
     - xtensor
     - xtensor-python
 
